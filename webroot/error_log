@@ -1,0 +1,82 @@
+[04-Aug-2017 10:03:27 UTC] PHP Fatal error:  Call to a member function errors() on array in /home/singhgurpreet/public_html/trainer/vendor/cakephp/cakephp/src/ORM/Table.php on line 1714
+[04-Aug-2017 10:06:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 481
+[04-Aug-2017 10:06:54 UTC] PHP Fatal error:  Call to a member function errors() on array in /home/singhgurpreet/public_html/trainer/vendor/cakephp/cakephp/src/ORM/Table.php on line 1714
+[04-Aug-2017 10:33:59 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 86
+[04-Aug-2017 10:34:03 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 86
+[04-Aug-2017 11:16:23 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 511
+[04-Aug-2017 11:17:31 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 513
+[04-Aug-2017 11:19:01 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 513
+[04-Aug-2017 11:22:36 UTC] PHP Fatal error:  Call to a member function save() on boolean in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 519
+[05-Aug-2017 08:23:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 137
+[05-Aug-2017 11:12:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 578
+[05-Aug-2017 11:14:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:14:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:14:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 579
+[05-Aug-2017 11:15:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 579
+[05-Aug-2017 11:15:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:16:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:16:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:17:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 12:41:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 175
+[05-Aug-2017 12:42:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 178
+[05-Aug-2017 12:42:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 178
+[08-Aug-2017 11:19:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 618
+[09-Aug-2017 07:41:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 07:41:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 07:41:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 08:23:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 34
+[09-Aug-2017 08:23:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 34
+[09-Aug-2017 08:23:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 42
+[09-Aug-2017 08:23:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 42
+[09-Aug-2017 11:27:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 437
+[09-Aug-2017 12:15:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 50
+[09-Aug-2017 12:40:22 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 29
+[09-Aug-2017 12:41:26 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 30
+[09-Aug-2017 12:42:37 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 31
+[09-Aug-2017 12:42:42 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 31
+[09-Aug-2017 12:43:51 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:43:55 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:43:58 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:45:16 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:45:20 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:55:00 UTC] PHP Fatal error:  Call to undefined method App\Controller\TrainerController::distance() in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[09-Aug-2017 13:11:06 UTC] PHP Fatal error:  Call to undefined method App\Controller\TrainerController::distance() in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:46:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[10-Aug-2017 04:47:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[10-Aug-2017 04:47:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:49:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:49:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:50:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:50:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 06:04:23 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 47
+[10-Aug-2017 06:56:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 36
+[10-Aug-2017 07:30:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 97
+[10-Aug-2017 07:30:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 97
+[11-Aug-2017 11:02:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:02:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:03:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:04:19 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:04:25 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:19:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 101
+[16-Aug-2017 07:50:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 106
+[16-Aug-2017 07:56:46 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 6
+[16-Aug-2017 11:24:38 UTC] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 717
+[16-Aug-2017 11:41:34 UTC] PHP Parse error:  syntax error, unexpected 'request' (T_STRING) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 726
+[16-Aug-2017 11:42:45 UTC] PHP Fatal error:  Call to a member function subject() on array in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 739
+[17-Aug-2017 06:22:52 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Email' not found in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/ContactsController.php on line 106
+[17-Aug-2017 09:40:17 UTC] PHP Parse error:  syntax error, unexpected '$is_exist' (T_VARIABLE) in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/StaticpagesController.php on line 91
+[17-Aug-2017 10:26:15 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:26:33 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:26:53 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:31:20 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/StaticpagesController.php on line 60
+[17-Aug-2017 11:40:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 102
+[18-Aug-2017 07:44:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Template/Users/home.ctp on line 211
+[18-Aug-2017 09:59:33 UTC] PHP Parse error:  syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/ReviewsController.php on line 44
+[18-Aug-2017 12:59:56 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Homesections/index.ctp on line 3
+[18-Aug-2017 12:59:58 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Homesections/index.ctp on line 3
+[21-Aug-2017 05:52:59 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Users/index.ctp on line 67
+[21-Aug-2017 05:53:01 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Users/index.ctp on line 67
+[21-Aug-2017 09:37:41 UTC] PHP Fatal error:  Cannot use object of type Cake\I18n\FrozenTime as array in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 136
+[30-Aug-2017 07:29:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 292
+[30-Aug-2017 07:29:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 292
+[30-Aug-2017 09:28:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 160
